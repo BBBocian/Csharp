@@ -4,4 +4,4 @@
 !*/
 # And all the file types you're interested in.
 !*.gitignore
-!*.cs
+!*Program.cs
