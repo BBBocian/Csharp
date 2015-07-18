@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+
+    <div class="gaz_box">
+      <ul class="gaz_grade">
+        <li>ON</li>
+        <li>Pb95</li>
+        <li>Pb98</li>
+        <li>LPG</li>
+        <li class="price">
+          <span class="up2">4.67</span>
+        </li>
+        <li class="price">
+          <span class="down2">5.05</span>
+        </li>
+        <li class="price">
+          <span class="down2">5.31</span>
+        </li>
+        <li class="price">
+          <span class="down2">1.87</span>
+        </li>
+      </ul>
+    </div>
+
+  </head>
+</html>
